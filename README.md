@@ -4,6 +4,7 @@
 
 参考视频：[https://www.bilibili.com/video/BV15J411d7T2](https://www.bilibili.com/video/BV15J411d7T2)
 
+> 该项目已经实现视频中的所有功能
 
 ### 1.1. 核心依赖
 本项目是基于 nodejs + mongodb 的实战项目，核心依赖包如下：
@@ -57,5 +58,3 @@ npm install
 ```shell
 npm start
 ```
-
-> 注意: 该项目的界面没有实现视频中的样式美化，但已经实现所有的功能！

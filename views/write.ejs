@@ -14,7 +14,7 @@
                 <input type="hidden" name="id" value="<%= item.id %>">
                 <input type="hidden" name="page" value="<%= item.page %>">
                 <input type="text" name="title" placeholder="请输入文章标题" value="<%= item.title %>">
-                <textarea name="content" cols="90%" rows="30" class="xheditor"><%- item.content %></textarea>
+                <textarea name="content" class="xheditor"><%- item.content %></textarea>
                 <% if(item.id){ %>
                     <input type="submit" value="修改">
                     <% } else { %>
