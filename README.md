@@ -6,6 +6,21 @@
 
 > 该项目已经实现视频中的所有功能
 
+**项目截图**
+
+- 登录页
+![01-login.png](./demo/01-login.png)
+
+- 首页
+![02-home.png](./demo/02-home.png)
+
+- 文章创建与编辑页
+![03-add.png](./demo/03-add.png)
+
+- 文章详情页
+![04-detail.png](./demo/04-detail.png)
+
+
 ### 1.1. 核心依赖
 本项目是基于 nodejs + mongodb 的实战项目，核心依赖包如下：
 
